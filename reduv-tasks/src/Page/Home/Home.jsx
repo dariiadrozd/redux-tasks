@@ -18,6 +18,27 @@ function Home() {
       <p>
         <Link to="/task5">Task5</Link>
       </p>
+      <p>
+        <Link to="/task6">Task6</Link>
+      </p>
+      <p>
+        <Link to="/task7">Task7</Link>
+      </p>
+      <p>
+        <Link to="/task8">Task8</Link>
+      </p> 
+      <p>
+        <Link to="/task9">Task9</Link>
+      </p>
+      <p>
+        <Link to="/task10">Task10</Link>
+      </p>
+      <p>
+        <Link to="/task11">Task11</Link>
+      </p>
+      <p>
+        <Link to="/task12">Task12</Link>
+      </p>
     </>
   );
 }
